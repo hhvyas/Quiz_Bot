@@ -514,4 +514,4 @@ async def on_message(msg):
   await msg.channel.send("Correct Answer is " + curr_ans)
   ArrChoice.clear()
   
-client.run('ODIwMDYyMTcxMDkwMjU1ODgz.YEvsaQ.N_HWw5PZc86cMysmZENyXR-5SN4')
+client.run('Token')
